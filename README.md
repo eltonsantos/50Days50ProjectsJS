@@ -30,6 +30,14 @@ Tutorial: https://www.youtube.com/watch?v=NxQfifuErVE
 
 ## Day 03
 
+### Parallax & ScrollReveal
+
+Tutorial: https://www.youtube.com/watch?v=29vJqTa53gs
+
+<p align="center">
+  <img alt="Parallax & ScrollReveal" src=".github/day03.gif" width="500px">
+</p>
+
 ## Day 04
 
 ## Day 05
