@@ -40,6 +40,14 @@ Tutorial: https://www.youtube.com/watch?v=29vJqTa53gs
 
 ## Day 04
 
+### Imagens sanfonadas
+
+Tutorial: https://www.youtube.com/watch?v=FP2hKdOjYhM
+
+<p align="center">
+  <img alt="Imagens sanfonada" src=".github/day04.gif" width="500px">
+</p>
+
 ## Day 05
 
 ## Day 06
