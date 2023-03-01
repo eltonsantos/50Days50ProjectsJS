@@ -50,6 +50,14 @@ Tutorial: https://www.youtube.com/watch?v=FP2hKdOjYhM
 
 ## Day 05
 
+### Imagem carregando
+
+Tutorial: https://www.youtube.com/watch?v=y1skixS1YJw
+
+<p align="center">
+  <img alt="Imagens carregando" src=".github/day05.gif" width="500px">
+</p>
+
 ## Day 06
 
 ## Day 07
