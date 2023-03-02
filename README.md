@@ -60,6 +60,14 @@ Tutorial: https://www.youtube.com/watch?v=y1skixS1YJw
 
 ## Day 06
 
+### CSS Animado no scroll
+
+Tutorial: https://www.youtube.com/watch?v=lCXrE1HsfCs
+
+<p align="center">
+  <img alt="CSS Animado no scroll" src=".github/day06.gif" width="500px">
+</p>
+
 ## Day 07
 
 ## Day 08
