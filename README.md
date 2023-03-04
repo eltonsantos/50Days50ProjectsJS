@@ -80,6 +80,14 @@ Tutorial: https://www.youtube.com/watch?v=moJN-MLY1iM
 
 ## Day 08
 
+### FAQ Accordion
+
+Tutorial: https://www.youtube.com/watch?v=m2JDjLFcadk
+
+<p align="center">
+  <img alt="FAQ Accordion" src=".github/day07.gif" width="500px">
+</p>
+
 ## Day 09
 
 ## Day 10
