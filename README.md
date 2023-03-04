@@ -70,6 +70,14 @@ Tutorial: https://www.youtube.com/watch?v=lCXrE1HsfCs
 
 ## Day 07
 
+### Event KeyCode
+
+Tutorial: https://www.youtube.com/watch?v=moJN-MLY1iM
+
+<p align="center">
+  <img alt="Event KeyCode" src=".github/day07.gif" width="500px">
+</p>
+
 ## Day 08
 
 ## Day 09
