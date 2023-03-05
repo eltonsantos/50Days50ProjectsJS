@@ -15,7 +15,7 @@ E seguindo outros tutoriais também! 🔥
 Tutorial: https://www.youtube.com/watch?v=RlaZjCgTw9M
 
 <p align="center">
-  <img alt="Sidebar responsiva" src=".github/day01.gif" width="500px">
+  <img alt="Sidebar responsiva" src=".github/day01.gif" width="500px" />
 </p>
 
 ## Day 02
@@ -25,7 +25,7 @@ Tutorial: https://www.youtube.com/watch?v=RlaZjCgTw9M
 Tutorial: https://www.youtube.com/watch?v=NxQfifuErVE
 
 <p align="center">
-  <img alt="Menu hamburguer responsivo" src=".github/day02.gif" width="500px">
+  <img alt="Menu hamburguer responsivo" src=".github/day02.gif" width="500px" />
 </p>
 
 ## Day 03
@@ -35,7 +35,7 @@ Tutorial: https://www.youtube.com/watch?v=NxQfifuErVE
 Tutorial: https://www.youtube.com/watch?v=29vJqTa53gs
 
 <p align="center">
-  <img alt="Parallax & ScrollReveal" src=".github/day03.gif" width="500px">
+  <img alt="Parallax & ScrollReveal" src=".github/day03.gif" width="500px" />
 </p>
 
 ## Day 04
@@ -45,7 +45,7 @@ Tutorial: https://www.youtube.com/watch?v=29vJqTa53gs
 Tutorial: https://www.youtube.com/watch?v=FP2hKdOjYhM
 
 <p align="center">
-  <img alt="Imagens sanfonada" src=".github/day04.gif" width="500px">
+  <img alt="Imagens sanfonada" src=".github/day04.gif" width="500px" />
 </p>
 
 ## Day 05
@@ -55,7 +55,7 @@ Tutorial: https://www.youtube.com/watch?v=FP2hKdOjYhM
 Tutorial: https://www.youtube.com/watch?v=y1skixS1YJw
 
 <p align="center">
-  <img alt="Imagens carregando" src=".github/day05.gif" width="500px">
+  <img alt="Imagens carregando" src=".github/day05.gif" width="500px" />
 </p>
 
 ## Day 06
@@ -65,7 +65,7 @@ Tutorial: https://www.youtube.com/watch?v=y1skixS1YJw
 Tutorial: https://www.youtube.com/watch?v=lCXrE1HsfCs
 
 <p align="center">
-  <img alt="CSS Animado no scroll" src=".github/day06.gif" width="500px">
+  <img alt="CSS Animado no scroll" src=".github/day06.gif" width="500px" />
 </p>
 
 ## Day 07
@@ -75,7 +75,7 @@ Tutorial: https://www.youtube.com/watch?v=lCXrE1HsfCs
 Tutorial: https://www.youtube.com/watch?v=moJN-MLY1iM
 
 <p align="center">
-  <img alt="Event KeyCode" src=".github/day07.gif" width="500px">
+  <img alt="Event KeyCode" src=".github/day07.gif" width="500px" />
 </p>
 
 ## Day 08
@@ -85,10 +85,18 @@ Tutorial: https://www.youtube.com/watch?v=moJN-MLY1iM
 Tutorial: https://www.youtube.com/watch?v=m2JDjLFcadk
 
 <p align="center">
-  <img alt="FAQ Accordion" src=".github/day07.gif" width="500px">
+  <img alt="FAQ Accordion" src=".github/day08.gif" width="500px" />
 </p>
 
 ## Day 09
+
+### Increment Count Social Media
+
+Tutorial: https://www.youtube.com/watch?v=_YJZ4JZjXBg
+
+<p align="center">
+  <img alt="Increment Count Social Media" src=".github/day09.gif" width="500px" />
+</p>
 
 ## Day 10
 
