@@ -100,6 +100,14 @@ Tutorial: https://www.youtube.com/watch?v=_YJZ4JZjXBg
 
 ## Day 10
 
+### Random Choice Picker
+
+Tutorial: https://www.youtube.com/watch?v=-4Rp9Hh5f4Q
+
+<p align="center">
+  <img alt="Random Choice Picker" src=".github/day10.gif" width="500px" />
+</p>
+
 ## Day 11
 
 ## Day 12
